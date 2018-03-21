@@ -1,0 +1,3 @@
+def CouponsController < ApplicationController
+
+end
