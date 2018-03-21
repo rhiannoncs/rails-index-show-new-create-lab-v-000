@@ -1,3 +1,3 @@
-def CouponsController < ApplicationController
+class CouponsController < ApplicationController
 
 end
